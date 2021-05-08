@@ -1,0 +1,56 @@
+*{
+  margin:0;
+  padding:5px;
+}
+
+body{
+margin: 0;
+  font-size:40px;
+  color: Black;
+  font-style:oblique;
+background-image: url('https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+background-size: cover;
+background-position: center;
+height: 100vh;
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-top:330px;
+color:#ff9c40;
+}
+#Display{
+font-size:20px
+font-style:oblique;
+text-align: center;
+}
+
+#button{
+  color: Gold;
+}
+
+#box1{
+font-size: 20px;
+background-color: Black;
+opacity: 0.6;
+}
+
+#box2{
+font-size: 18px;
+background-color: white;
+background-size: cover;
+opacity: 0.5;
+color: Black;
+}
+#logo{
+  float: left;
+}
+
+#clock{
+  font-size: 175px;
+ width: 900px;
+ margin: 200px;
+ text-align: center;
+ border: 2px solid black;
+ border-radius: 20px;
+}
